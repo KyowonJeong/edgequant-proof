@@ -2653,5 +2653,30 @@
   "win": false,
   "chart": "archive/charts/2026-09-04-NQ-1.png",
   "stop": 29500.91
+ },
+ {
+  "id": "2026-09-06-BTC-1",
+  "instrument": "BTC",
+  "direction": "SHORT",
+  "session": 22,
+  "mkt_time": "2026-09-06 18:00:00+00:00",
+  "entry_ts": "2026-09-06T18:00:01.342412-04:00",
+  "entry_ts_display": "2026-09-06 22:00 (UTC)",
+  "entry": 79910.1,
+  "entry_ref": 79910.1,
+  "entry_price": 79910.1,
+  "size": "1.46x",
+  "contracts": 5.844,
+  "trade_allowed": false,
+  "status": "resolved",
+  "exit_ts": "2026-09-07T02:00:00+00:00",
+  "exit_price": 80060.0,
+  "actual_direction": "LONG",
+  "stop_hit": true,
+  "result_R": -1.46,
+  "result_R_unit": -1.0,
+  "win": false,
+  "chart": "archive/charts/2026-09-06-BTC-1.png",
+  "stop": 80060.0
  }
 ]
