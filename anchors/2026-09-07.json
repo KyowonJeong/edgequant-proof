@@ -10,6 +10,5 @@
   "rows": 113
  },
  "ts": 1788810139.667,
- "time_source": "host clock (macOS NTP-synced)",
- "ledgers_count": 7
+ "time_source": "host clock (macOS NTP-synced)"
 }
