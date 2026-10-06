@@ -1,0 +1,14 @@
+{
+ "date": "2026-10-06",
+ "stem": "2026-10-06",
+ "formula": "v2",
+ "root": "a03de4fb060458931396f48a359684515b2aa014c7d0ac5726826c1512380961",
+ "ledgers_digest": "53e5cdd947d343c7be5fdc7f4a366e1f61e4228e8b416f3979d0c70bb9d2850a",
+ "track_record": {
+  "file": "predictions_public.json",
+  "sha256": "f3510f4a64843eea94ceb87e29afa1d2eab1967efa4671eb4b260fc5dd874234",
+  "rows": 159
+ },
+ "ts": 1791315763.454,
+ "time_source": "host clock (macOS NTP-synced)"
+}
